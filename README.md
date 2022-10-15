@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ParoRahul
-- 👀 I’m interested in ... Python Typesscript , Java script ,
-- 🌱 I’m currently learning ...RUST
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @RahulDas-dev
+- 👀 I’m interested in ... Python, Typesscript, Java script,
+- 🌱 I’m currently learning ...RUST. And Looking for online resource to build up my Knowledge on Rust.
+- 💞️ I’m looking to collaborate on ... Data Science Or Mechine Learning Projects
 - 📫 How to reach me ...
 
 <!---
