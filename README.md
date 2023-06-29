@@ -9,6 +9,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=RahulDas-dev&theme=gruvbox&show_icons=true&hide=stars">
 </p>
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=RahulDas-dev&theme=gruvbox&hide_border=false&starting_year=2017&card_width=475)">
+    <img src="https://streak-stats.demolab.com/?user=RahulDas-dev&theme=gruvbox&hide_border=true&starting_year=2017&card_width=470)">
 </p>
  
