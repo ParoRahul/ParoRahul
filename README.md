@@ -4,4 +4,11 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@r.das699)
 
 ### - 👀 I’m currently Working on Python, Machine Learning, Deep Learning 🌱
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=RahulDas-dev&theme=codeSTACKr&show_icons=true&hide=stars">
+</p>
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=RahulDas-dev&theme=highcontrast&hide_border=true&starting_year=2021&card_width=445)">
+</p>
  
