@@ -12,6 +12,6 @@
     <img src="https://streak-stats.demolab.com/?user=RahulDas-dev&theme=gruvbox&hide_border=true&starting_year=2017&card_width=470">
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulDas-dev&layout=donut">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulDas-dev&layout=donut&hide=html&theme=gruvbox">
 </p>
  
